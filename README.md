@@ -48,6 +48,8 @@
 - Design & Analysis of Algorithms  
 - Introduction to Databases
 
+</details>
+
 ## 🌱 Open To
 2026 software / full-stack / CS-related internship opportunities (remote or based in Shanghai)
 
