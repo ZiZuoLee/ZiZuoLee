@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I’m Zac 👋
 
-<!--
-**ZiZuoLee/ZiZuoLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Education
+- **Bachelor of Computer Science**, Fudan University (Class of ’27)
 
-Here are some ideas to get you started:
+## 💼 Work Experience
+- **Anyhelper International** · AI Department  
+  **Full Stack Developer**  
+  March 2025 – Present
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+<details>
+<summary>Click to expand</summary>
+
+**Frontend**  
+- JavaScript · React · Vue
+
+**Backend**  
+- Node.js · Express · Python (Flask · FastAPI)
+
+**Data & Analytics**  
+- Pandas · NumPy · CSV
+
+**Databases**  
+- MySQL · MongoDB
+
+**Systems & Languages**  
+- C · C++ · Linux (Ubuntu) · Git · Bash · PowerShell
+
+**Web**  
+- HTML · CSS
+
+</details>
+
+## 📚 Courses (Learning / Completed)
+- Data Structures  
+- Introduction to Computer Systems  
+- Object-Oriented Programming  
+- Introduction to Cybersecurity  
+- Digital Logic & Component Design  
+- Software Engineering  
+- Digital Design & Computer Architecture  
+- Design & Analysis of Algorithms  
+- Introduction to Databases
+
+## 🌱 Open To
+2026 software / full-stack / CS-related internship opportunities (remote or based in Shanghai)
+
+## 📫 Contact
+✉️ zizuolee@gmail.com
