@@ -8,6 +8,9 @@
   **Full Stack Developer**  
   March 2025 – Present
 
+## 🌱 Open To
+2026 software / full-stack / CS-related internship opportunities (remote or based in Shanghai)
+
 ## 🛠️ Tech Stack
 
 <details>
@@ -49,9 +52,6 @@
 - Introduction to Databases
 
 </details>
-
-## 🌱 Open To
-2026 software / full-stack / CS-related internship opportunities (remote or based in Shanghai)
 
 ## 📫 Contact
 ✉️ zizuolee@gmail.com
