@@ -34,6 +34,10 @@
 </details>
 
 ## 📚 Courses (Learning / Completed)
+
+<details>
+<summary>Click to expand</summary>
+
 - Data Structures  
 - Introduction to Computer Systems  
 - Object-Oriented Programming  
