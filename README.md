@@ -4,7 +4,7 @@
 - **Bachelor of Computer Science**, Fudan University (Class of ’27)
 
 ## 💼 Work Experience
-- **Bybit Fintech** · Unified Frontend Trading Team
+- **Bybit Fintech** · Unified Frontend Trading Team  
   **Frontend Intern**  
   October 2025 - Present
 - **Anyhelper International** · AI Department  
@@ -33,7 +33,6 @@
 
 **Systems & Languages**  
 - C · C++ · Linux (Ubuntu) · Git · Bash · PowerShell
-- 
 </details>
 
 ## 📚 Courses (Learning / Completed)
