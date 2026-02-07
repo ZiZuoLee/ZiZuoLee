@@ -4,12 +4,15 @@
 - **Bachelor of Computer Science**, Fudan University (Class of ’27)
 
 ## 💼 Work Experience
+- **Bybit Fintech** · Unified Frontend Trading Team
+  **Frontend Intern**  
+  October 2025 - Present
 - **Anyhelper International** · AI Department  
   **Full Stack Developer**  
-  March 2025 – Present
+  March 2025 – October 2025
 
 ## 🌱 Open To
-2026 software / full-stack / CS-related internship opportunities (remote or based in Shanghai)
+2026 summer intern : software / full-stack / SDE related opportunities (remote or based in Shanghai)
 
 ## 🛠️ Tech Stack
 
@@ -17,7 +20,7 @@
 <summary>Click to expand</summary>
 
 **Frontend**  
-- JavaScript · React · Vue
+- JavaScript · TypeScript · React · Vue · HTML · CSS
 
 **Backend**  
 - Node.js · Express · Python (Flask · FastAPI)
@@ -30,10 +33,7 @@
 
 **Systems & Languages**  
 - C · C++ · Linux (Ubuntu) · Git · Bash · PowerShell
-
-**Web**  
-- HTML · CSS
-
+- 
 </details>
 
 ## 📚 Courses (Learning / Completed)
@@ -41,15 +41,17 @@
 <details>
 <summary>Click to expand</summary>
 
-- Data Structures  
-- Introduction to Computer Systems  
+- Software Engineering
+- Computer Network
+- Machine Learning
+- Data Structures
+- Design & Analysis of Algorithms 
+- Introduction to Computer Systems
+- Introduction to Databases
 - Object-Oriented Programming  
 - Introduction to Cybersecurity  
 - Digital Logic & Component Design  
-- Software Engineering  
 - Digital Design & Computer Architecture  
-- Design & Analysis of Algorithms  
-- Introduction to Databases
 
 </details>
 
