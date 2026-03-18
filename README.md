@@ -6,7 +6,7 @@
 ## 💼 Work Experience
 - **Bybit Fintech** · Unified Frontend Trading Team  
   **Frontend Intern**  
-  October 2025 - Present
+  October 2025 - March 2026
 - **Anyhelper International** · AI Department  
   **Full Stack Developer**  
   March 2025 – October 2025
@@ -42,7 +42,9 @@
 
 - Software Engineering
 - Computer Network
+- Artificial Intelligence
 - Machine Learning
+- Computer Graphics
 - Data Structures
 - Design & Analysis of Algorithms 
 - Introduction to Computer Systems
